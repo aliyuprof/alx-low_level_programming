@@ -1,14 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/*
- * File: 0-positive_or_negative.c
- * Auth: Ali Usman Mohammed
- */
 
 /**
- * main - prints a random number and state wheather its wheather its negative 
- * negative or zero
- * Return: always 0.
+ * main - Prints a random number and states whether
+ *        it is positive, negative, or zero.
+ *
+ * Return: Always 0.
 */
 
 int main(void)
