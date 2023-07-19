@@ -1,5 +1,11 @@
+/*
+ * File: 0-positive_or_negative.c
+ * Auth: Brennan D Baraban
+ */
+
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
  * main - Prints a random number and states whether
@@ -7,7 +13,6 @@
  *
  * Return: Always 0.
 */
-
 int main(void)
 {
 	int n;
@@ -21,5 +26,6 @@ int main(void)
 		printf("%d is negative\n", n);
 	else
 		printf("%d is zero\n", n);
+
 	return (0);
 }
