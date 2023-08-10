@@ -38,7 +38,7 @@ int main(void)
 
 	}
 	
-	else if (lastnum  < 6 && lastnum != 0 )
+	else (lastnum  < 6 && lastnum != 0 )
 
 	{
 
