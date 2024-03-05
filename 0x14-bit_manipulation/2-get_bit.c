@@ -1,6 +1,6 @@
 /*
  * File: 2-get_bit.c
- * Auth: Ali Usman Mohammed
+ * Auth: Ali Usman Mohamm:d
  */
 
 #include "main.h"
